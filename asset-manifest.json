@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AlexHubVersion/home/static/css/main.3dba37b7.css",
-    "main.js": "/AlexHubVersion/home/static/js/main.08c96758.js",
-    "index.html": "/AlexHubVersion/home/index.html",
-    "main.3dba37b7.css.map": "/AlexHubVersion/home/static/css/main.3dba37b7.css.map",
-    "main.08c96758.js.map": "/AlexHubVersion/home/static/js/main.08c96758.js.map"
+    "main.css": "/AlexHubVersion/static/css/main.3dba37b7.css",
+    "main.js": "/AlexHubVersion/static/js/main.2eb304f6.js",
+    "index.html": "/AlexHubVersion/index.html",
+    "main.3dba37b7.css.map": "/AlexHubVersion/static/css/main.3dba37b7.css.map",
+    "main.2eb304f6.js.map": "/AlexHubVersion/static/js/main.2eb304f6.js.map"
   },
   "entrypoints": [
     "static/css/main.3dba37b7.css",
-    "static/js/main.08c96758.js"
+    "static/js/main.2eb304f6.js"
   ]
 }
