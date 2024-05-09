@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/AlexHubVersion/static/css/main.b2fda644.css",
-    "main.js": "/AlexHubVersion/static/js/main.31a9cd78.js",
+    "main.js": "/AlexHubVersion/static/js/main.45225de0.js",
     "static/media/Sicilian.jpg": "/AlexHubVersion/static/media/Sicilian.ac9e19746a9212b8f551.jpg",
     "static/media/Buffalo Chicken.jpg": "/AlexHubVersion/static/media/Buffalo Chicken.460cfd635a835881ee57.jpg",
     "static/media/Classic Cheese.jpg": "/AlexHubVersion/static/media/Classic Cheese.7d84df85368f84bab834.jpg",
     "static/media/House Salad.jpg": "/AlexHubVersion/static/media/House Salad.6da8aafbb4f733055e76.jpg",
     "index.html": "/AlexHubVersion/index.html",
     "main.b2fda644.css.map": "/AlexHubVersion/static/css/main.b2fda644.css.map",
-    "main.31a9cd78.js.map": "/AlexHubVersion/static/js/main.31a9cd78.js.map"
+    "main.45225de0.js.map": "/AlexHubVersion/static/js/main.45225de0.js.map"
   },
   "entrypoints": [
     "static/css/main.b2fda644.css",
-    "static/js/main.31a9cd78.js"
+    "static/js/main.45225de0.js"
   ]
 }
